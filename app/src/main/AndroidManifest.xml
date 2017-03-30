@@ -17,7 +17,7 @@
         </activity>
 
         <receiver
-            android:name=".MyReceiver"
+            android:name=".MeuBroadcast"
             android:enabled="false"
             android:exported="false"></receiver>
     </application>
